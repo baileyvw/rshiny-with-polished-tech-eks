@@ -12,6 +12,8 @@ Grab the code!
 
 ```
 git clone https://github.com/jerowe/rshiny-with-polished-tech-eks
+or
+git clone https://github.com/baileyvw/rshiny-with-polished-tech-eks
 ```
 
 ### EKS Cluster Code
